@@ -1,0 +1,9 @@
+streamlit
+youtube-transcript-api
+yt-dlp
+textwrap3
+transformers
+torch
+sentencepiece
+protobuf
+ffmpeg-python
